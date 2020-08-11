@@ -1,0 +1,12 @@
+[32mINFO    [0m root:base.py:17 正在初始化driver: <selenium.webdriver.chrome.webdriver.WebDriver (session="8c8e84e580275d4db70ba52d08471c04")>
+[32mINFO    [0m root:base.py:29 正在查找元素：('css selector', "[placeholder='请输入手机号']")
+[32mINFO    [0m root:base.py:42 正在对：('css selector', "[placeholder='请输入手机号']") 元素执行清空操作！
+[32mINFO    [0m root:base.py:45 正在对：('css selector', "[placeholder='请输入手机号']") 元素执行输入:13812345678 操作！
+[32mINFO    [0m root:base.py:29 正在查找元素：('css selector', "[placeholder='验证码']")
+[32mINFO    [0m root:base.py:42 正在对：('css selector', "[placeholder='验证码']") 元素执行清空操作！
+[32mINFO    [0m root:base.py:45 正在对：('css selector', "[placeholder='验证码']") 元素执行输入:246810 操作！
+[32mINFO    [0m root:base.py:55 正在对：('css selector', '.el-button--primary') 元素执行点击操作！
+[32mINFO    [0m root:base.py:29 正在查找元素：('css selector', '.el-button--primary')
+[32mINFO    [0m root:base.py:29 正在查找元素：('css selector', '.user-name')
+[32mINFO    [0m root:base.py:65 正在对：('css selector', '.user-name') 元素获取文本操作！，获取的文本值：0804
+[32mINFO    [0m root:base.py:29 正在查找元素：('css selector', '.user-name')

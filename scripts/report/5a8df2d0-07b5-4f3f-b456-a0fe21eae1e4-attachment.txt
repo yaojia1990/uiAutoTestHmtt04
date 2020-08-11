@@ -1,0 +1,39 @@
+INFO     root:base.py:17 正在初始化driver: <selenium.webdriver.chrome.webdriver.WebDriver (session="5e8ff30b9f9aa8ac00179b7b1ce3525d")>
+INFO     root:base.py:29 正在查找元素：('css selector', "[name='username']")
+INFO     root:base.py:42 正在对：('css selector', "[name='username']") 元素执行清空操作！
+INFO     root:base.py:45 正在对：('css selector', "[name='username']") 元素执行输入:testid 操作！
+INFO     root:base.py:29 正在查找元素：('css selector', "[name='password']")
+INFO     root:base.py:42 正在对：('css selector', "[name='password']") 元素执行清空操作！
+INFO     root:base.py:45 正在对：('css selector', "[name='password']") 元素执行输入:testpwd123 操作！
+INFO     root:base.py:55 正在对：('css selector', '#inp1') 元素执行点击操作！
+INFO     root:base.py:29 正在查找元素：('css selector', '#inp1')
+INFO     root:base.py:17 正在初始化driver: <selenium.webdriver.chrome.webdriver.WebDriver (session="5e8ff30b9f9aa8ac00179b7b1ce3525d")>
+INFO     root:base.py:55 正在对：('xpath', "//*[text()='信息管理']") 元素执行点击操作！
+INFO     root:base.py:29 正在查找元素：('xpath', "//*[text()='信息管理']")
+INFO     root:base.py:55 正在对：('xpath', "//*[text()='内容审核']") 元素执行点击操作！
+INFO     root:base.py:29 正在查找元素：('xpath', "//*[text()='内容审核']")
+INFO     root:base.py:29 正在查找元素：('css selector', "[placeholder='请输入: 文章名称']")
+INFO     root:base.py:42 正在对：('css selector', "[placeholder='请输入: 文章名称']") 元素执行清空操作！
+INFO     root:base.py:45 正在对：('css selector', "[placeholder='请输入: 文章名称']") 元素执行输入:test002 操作！
+INFO     root:base.py:29 正在查找元素：('css selector', "[placeholder='请输入: 频道']")
+INFO     root:base.py:42 正在对：('css selector', "[placeholder='请输入: 频道']") 元素执行清空操作！
+INFO     root:base.py:45 正在对：('css selector', "[placeholder='请输入: 频道']") 元素执行输入:数据库 操作！
+INFO     root:base.py:55 正在对：('css selector', '[placeholder=请选择状态]') 元素执行点击操作！
+INFO     root:base.py:29 正在查找元素：('css selector', '[placeholder=请选择状态]')
+INFO     root:base.py:55 正在对：('xpath', "//*[text()='待审核']") 元素执行点击操作！
+INFO     root:base.py:29 正在查找元素：('xpath', "//*[text()='待审核']")
+INFO     root:base.py:55 正在对：('css selector', '.find') 元素执行点击操作！
+INFO     root:base.py:29 正在查找元素：('css selector', '.find')
+INFO     root:base.py:29 正在查找元素：('css selector', '.cell>span')
+INFO     root:base.py:65 正在对：('css selector', '.cell>span') 元素获取文本操作！，获取的文本值：1289878909193551872
+INFO     root:base.py:29 正在查找元素：('css selector', '.cell>span')
+INFO     root:base.py:55 正在对：('xpath', "//*[text()='通过']/..") 元素执行点击操作！
+INFO     root:base.py:29 正在查找元素：('xpath', "//*[text()='通过']/..")
+INFO     root:base.py:55 正在对：('css selector', '.el-button--primary') 元素执行点击操作！
+INFO     root:base.py:29 正在查找元素：('css selector', '.el-button--primary')
+INFO     root:base.py:55 正在对：('css selector', '[placeholder=请选择状态]') 元素执行点击操作！
+INFO     root:base.py:29 正在查找元素：('css selector', '[placeholder=请选择状态]')
+INFO     root:base.py:55 正在对：('xpath', "//*[text()='审核通过']") 元素执行点击操作！
+INFO     root:base.py:29 正在查找元素：('xpath', "//*[text()='审核通过']")
+INFO     root:base.py:55 正在对：('css selector', '.find') 元素执行点击操作！
+INFO     root:base.py:29 正在查找元素：('css selector', '.find')

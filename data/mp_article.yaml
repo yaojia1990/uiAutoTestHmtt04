@@ -1,0 +1,6 @@
+mp_article001:
+  title: "test003"
+  content: "今天吃火锅"
+  expect: "新增文章成功"
+  channel: "数据库"
+

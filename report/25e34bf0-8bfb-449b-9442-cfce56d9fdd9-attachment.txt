@@ -1,0 +1,1 @@
+[32mINFO    [0m root:base.py:17 正在初始化driver: <appium.webdriver.webdriver.WebDriver (session="91387442-bd7f-4457-9a34-83d8c6efea27")>
